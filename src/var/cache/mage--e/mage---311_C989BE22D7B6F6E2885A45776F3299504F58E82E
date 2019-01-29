@@ -1,0 +1,36 @@
+<div class="block block-layered-nav block-layered-nav--no-filters">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content toggle-content open">
+        <p class="block-subtitle block-subtitle--filter">Filter</p>
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://localhost:8080/ThucTap_Magento/index.php/sach/sach-ti-ng-anh.html?___SID=U">
+                            Sách tiếng Anh                            <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8080/ThucTap_Magento/index.php/sach/sach-khoa-h-c-cong-ngh.html?___SID=U">
+                            Sách khoa học công nghệ                            <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8080/ThucTap_Magento/index.php/sach/sach-y-t.html?___SID=U">
+                            Sách y tế                            <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8080/ThucTap_Magento/index.php/sach/sach-k-nang.html?___SID=U">
+                            Sách kỹ năng                            <span class="count">(2)</span>
+                        </a>
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>
